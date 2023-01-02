@@ -1,0 +1,281 @@
+,ID,Ort,Umkreis,MaxOrt,Preis,Flaeche,Zimmer,Grundstuecksflaeche,Kategorie,Etagen,Baujahr,Effizienzklasse,Energietraeger,Heizungsart,Stand
+0,28zn659,berlin,50,max. 15 km,7.790.000 €,['780 m²'],['30 Zi.'],['1.696 m²'],['Villa'],['5 Geschosse'],['1890'],n.a,n.a,n.a,2023-01-01
+1,28jr359,berlin,50,max. 30 km,450.000 €,['111 m²'],['5 Zi.'],['1.100 m²'],['Einfamilienhaus'],['2 Geschosse'],['1936'],['H'],"['Gas, Kohle']",['Zentralheizung'],2023-01-01
+2,274he5l,berlin,50,max. 10 km,690.000 €,['323 m²'],['8 Zi.'],['393 m²'],['Mehrfamilienhaus'],n.a,['1990'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+3,284bu5a,berlin,50,max. 10 km,885.400 €,['90 m²'],['4 Zi.'],['620 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+4,28u535d,berlin,50,max. 10 km,548.000 €,['90 m²'],['4 Zi.'],['290 m²'],['Doppelhaushälfte'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+5,279kt5y,berlin,50,max. 10 km,1.700.000 €,['186.62 m²'],['8 Zi.'],['502 m²'],['Mehrfamilienhaus'],n.a,['1936'],n.a,['Fernwärme'],['Zentralheizung'],2023-01-01
+6,27a225p,berlin,50,max. 10 km,7.500.000 €,['524.46 m²'],['9.5 Zi.'],['1.032 m²'],['Villa'],n.a,['2005'],['D'],['Gas'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+7,28g8n58,berlin,50,max. 10 km,1.750.000 €,['140 m²'],['5 Zi.'],['1.200 m²'],['Doppelhaushälfte'],n.a,['1925'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+8,27w5v5j,berlin,50,max. 15 km,795.000 €,['170 m²'],['8 Zi.'],['568 m²'],['Einfamilienhaus'],n.a,['1933'],['F'],['Gas'],n.a,2023-01-01
+9,274gz5y,berlin,50,max. 15 km,1.295.000 €,['126 m²'],['5 Zi.'],['280 m²'],['Reihenmittelhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+10,28lxe59,berlin,50,max. 15 km,790.000 €,['103 m²'],['3 Zi.'],['301 m²'],['Doppelhaushälfte'],n.a,n.a,n.a,n.a,['Fußbodenheizung'],2023-01-01
+11,28z335d,berlin,50,max. 15 km,950.000 €,['179 m²'],['6 Zi.'],['482 m²'],['Einfamilienhaus'],n.a,['1936'],['F'],n.a,n.a,2023-01-01
+12,28mq35d,berlin,50,max. 15 km,444.444 €,['118.07 m²'],['5 Zi.'],['239 m²'],['Reihenendhaus'],n.a,['1973'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+13,28crz5d,berlin,50,max. 15 km,750.000 €,['147 m²'],['7 Zi.'],['592 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+14,27nhe5l,berlin,50,max. 15 km,1.140.000 €,['154 m²'],['5 Zi.'],"['237,40 m²']",['Reihenmittelhaus'],n.a,['2017'],['B'],['Fernwärme'],n.a,2023-01-01
+15,28xyz53,berlin,50,max. 15 km,549.000 €,['135 m²'],['4 Zi.'],['775 m²'],['Einfamilienhaus'],n.a,['1976'],['D'],n.a,['Zentralheizung'],2023-01-01
+16,26pew5r,berlin,50,max. 15 km,1.590.000 €,['147 m²'],['5 Zi.'],['409 m²'],['Reihenendhaus'],n.a,['2016'],n.a,['Gas'],['Fußbodenheizung'],2023-01-01
+17,28kzy5b,berlin,50,max. 15 km,727.000 €,['136 m²'],['4 Zi.'],['572 m²'],['Einfamilienhaus'],n.a,['1996'],['E'],n.a,n.a,2023-01-01
+18,28z9y5c,berlin,50,max. 15 km,995.000 €,['121.55 m²'],['5 Zi.'],['414 m²'],['Doppelhaushälfte'],n.a,['1957'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+19,27yc95r,berlin,50,max. 15 km,344.000 €,['190.8 m²'],['1 Zi.'],['70 m²'],['Einfamilienhaus'],n.a,['1900'],n.a,['Gas'],['Etagenheizung'],2023-01-01
+20,26faw5f,berlin,50,max. 15 km,2.950.000 €,['211 m²'],['4 Zi.'],['301 m²'],['Doppelhaushälfte'],n.a,['2018'],['B'],['Blockheizkraftwerk'],['Fußbodenheizung'],2023-01-01
+21,28qa458,berlin,50,max. 15 km,449.000 €,['104 m²'],['5 Zi.'],['266 m²'],['Reihenmittelhaus'],n.a,['1928'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+22,27b4y5h,berlin,50,max. 15 km,595.000 €,['120 m²'],['4 Zi.'],['433 m²'],['Einfamilienhaus'],n.a,['1995'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+23,283ay5c,berlin,50,max. 15 km,2.800.000 €,['199.45 m²'],['6 Zi.'],['1.008 m²'],['Einfamilienhaus'],n.a,['1924'],['H'],['Öl'],"['offener Kamin, Zentralheizung']",2023-01-01
+24,28g6j58,berlin,50,max. 15 km,639.000 €,['130 m²'],['5 Zi.'],['552 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+25,27fz95t,berlin,50,max. 15 km,298.000 €,['70 m²'],['3 Zi.'],['145 m²'],['Reihenmittelhaus'],n.a,['1935'],n.a,['Elektro'],n.a,2023-01-01
+26,28gsc59,berlin,50,max. 15 km,349.000 €,['57 m²'],['3 Zi.'],['298 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+27,28a535d,berlin,50,max. 20 km,939.000 €,['137 m²'],['5 Zi.'],['745 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+28,28nje57,berlin,50,max. 20 km,595.000 €,['108 m²'],['4 Zi.'],['423 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+29,28zye59,berlin,50,max. 20 km,550.000 €,['101 m²'],['4 Zi.'],['400 m²'],['Reihenendhaus'],n.a,['1936'],['H'],n.a,n.a,2023-01-01
+30,2842359,berlin,50,max. 20 km,699.000 €,['130 m²'],['4 Zi.'],['462 m²'],['Einfamilienhaus'],n.a,n.a,['B'],n.a,['Fußbodenheizung'],2023-01-01
+31,27q8u5j,berlin,50,max. 20 km,520.000 €,['110 m²'],['5 Zi.'],['457 m²'],['Einfamilienhaus'],n.a,['1996'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+32,27w3b5u,berlin,50,max. 20 km,485.000 €,['104.12 m²'],['4 Zi.'],"['157,78 m²']",['Reihenendhaus'],n.a,['2019'],['B'],['Gas'],['Fußbodenheizung'],2023-01-01
+33,289x45a,berlin,50,max. 20 km,360.000 €,['81 m²'],['3 Zi.'],['400 m²'],['Einfamilienhaus'],n.a,['1991'],n.a,n.a,n.a,2023-01-01
+34,278fh5k,berlin,50,max. 20 km,2.499.999 €,['619 m²'],['24 Zi.'],['950 m²'],['Mehrfamilienhaus'],['3 Geschosse'],['1980'],['G'],['Öl'],n.a,2023-01-01
+35,27v535b,berlin,50,max. 20 km,5.749.000 €,['1016 m²'],['17 Zi.'],['7.418 m²'],['Villa'],n.a,['1914'],['E'],['Fernwärme'],"['offener Kamin, Zentralheizung']",2023-01-01
+36,28bku59,berlin,50,max. 20 km,795.000 €,['146 m²'],['4 Zi.'],['827 m²'],['Einfamilienhaus'],n.a,n.a,['A+'],n.a,n.a,2023-01-01
+37,28byc59,berlin,50,max. 20 km,350.000 €,['79 m²'],['3 Zi.'],['560 m²'],['Doppelhaushälfte'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+38,28x435d,berlin,50,max. 20 km,408.000 €,['61 m²'],['3 Zi.'],['1.041 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+39,27zly57,berlin,50,max. 30 km,499.000 €,['109 m²'],['4 Zi.'],['405 m²'],['Einfamilienhaus'],n.a,['1995'],['D'],['Gas'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+40,285ql54,frankfurt-am-main,50,max. 10 km,795.000 €,['195 m²'],['7 Zi.'],['210 m²'],['Stadthaus'],n.a,['1906'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+41,2773y5u,frankfurt-am-main,50,max. 50 km,449.000 €,['201 m²'],['8 Zi.'],['330 m²'],['Mehrfamilienhaus'],n.a,['1994/5'],['C'],"['Öl, Solar']",['Zentralheizung'],2023-01-01
+42,28vvt5b,frankfurt-am-main,50,max. 5 km,345.000 €,['95 m²'],['4 Zi.'],['144 m²'],['Reihenmittelhaus'],n.a,['1928'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+43,28qtt5b,frankfurt-am-main,50,max. 5 km,775.000 €,['100 m²'],['4 Zi.'],['274 m²'],['Reihenendhaus'],n.a,['1956'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+44,282kj59,frankfurt-am-main,50,max. 5 km,1.590.000 €,['266 m²'],['9 Zi.'],['630 m²'],['Einfamilienhaus'],n.a,['1956'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+45,28aut5b,frankfurt-am-main,50,max. 10 km,595.000 €,['120 m²'],['4 Zi.'],['216 m²'],['Reihenmittelhaus'],n.a,['1998'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+46,27v835r,frankfurt-am-main,50,max. 10 km,390.000 €,['81 m²'],['3 Zi.'],['127 m²'],['Reihenmittelhaus'],n.a,['1952'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+47,28z8l5c,frankfurt-am-main,50,max. 10 km,629.000 €,['100 m²'],['6 Zi.'],['415 m²'],['Doppelhaushälfte'],n.a,['1936'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+48,27m2d5f,frankfurt-am-main,50,max. 15 km,1.299.900 €,['189 m²'],['5 Zi.'],['632 m²'],['Reihenendhaus'],['3 Geschosse'],['2023'],n.a,['Erdwärme'],"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+49,27gvc5f,frankfurt-am-main,50,max. 15 km,938.900 €,['138 m²'],['5 Zi.'],['632 m²'],['Reihenmittelhaus'],['3 Geschosse'],['2023'],n.a,['Erdwärme'],"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+50,274d25w,frankfurt-am-main,50,max. 20 km,749.600 €,[],['5 Zi.'],['k.A.'],['Einfamilienhaus'],n.a,['1984'],['E'],['Gas'],['offener Kamin'],2023-01-01
+51,27bdc5m,frankfurt-am-main,50,max. 20 km,598.000 €,['114 m²'],['4 Zi.'],['216 m²'],['Doppelhaushälfte'],n.a,['2005'],n.a,n.a,['Fußbodenheizung'],2023-01-01
+52,27dyx5v,frankfurt-am-main,50,max. 20 km,979.000 €,['288.69 m²'],['9 Zi.'],['323 m²'],['Mehrfamilienhaus'],n.a,['1984'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+53,26hhb5y,frankfurt-am-main,50,max. 30 km,685.000 €,['257 m²'],['10 Zi.'],['702 m²'],n.a,n.a,"['1905, 1995']",['H'],['Gas'],['Zentralheizung'],2023-01-01
+54,27vhr5p,frankfurt-am-main,50,max. 30 km,1.150.000 €,['360 m²'],['12 Zi.'],['495 m²'],['Einfamilienhaus'],n.a,n.a,['A'],['Öl'],"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+55,2838k58,frankfurt-am-main,50,max. 30 km,330.000 €,['104 m²'],['5 Zi.'],['400 m²'],['Doppelhaushälfte'],n.a,['1952'],['H'],['Öl'],['Zentralheizung'],2023-01-01
+56,26zu45q,frankfurt-am-main,50,max. 30 km,670.000 €,['143 m²'],['5.5 Zi.'],['163 m²'],n.a,n.a,['1979'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+57,273uv52,frankfurt-am-main,50,max. 30 km,529.000 €,['145 m²'],['6 Zi.'],['640 m²'],n.a,n.a,n.a,n.a,n.a,n.a,2023-01-01
+58,27z6q5c,frankfurt-am-main,50,max. 50 km,1.299.000 €,['236 m²'],['8 Zi.'],['588 m²'],n.a,n.a,['1991'],['E'],['Gas'],n.a,2023-01-01
+59,28mub53,frankfurt-am-main,50,max. 50 km,986.000 €,['173 m²'],['6 Zi.'],['500 m²'],['Einfamilienhaus'],n.a,['2020'],n.a,n.a,"['Luft-/Wasser-Wärmepumpe, Zentralheizung']",2023-01-01
+60,28yvr55,frankfurt-am-main,50,max. 50 km,695.000 €,['190 m²'],['6 Zi.'],['400 m²'],['Einfamilienhaus'],n.a,['1980'],['E'],['Gas'],['Zentralheizung'],2023-01-01
+61,284n958,frankfurt-am-main,50,max. 50 km,430.000 €,['129 m²'],['5 Zi.'],['451 m²'],['Reihenendhaus'],n.a,['1980'],['F'],['Öl'],['Zentralheizung'],2023-01-01
+62,28wpg57,frankfurt-am-main,50,max. 50 km,415.000 €,['148 m²'],['7 Zi.'],['307 m²'],['Mehrfamilienhaus'],n.a,['1999'],['A'],n.a,n.a,2023-01-01
+63,287fr5d,frankfurt-am-main,50,max. 50 km,2.750.000 €,['449 m²'],['7 Zi.'],['2.100 m²'],['Villa'],n.a,['2001'],['D'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+64,27y7g57,frankfurt-am-main,50,max. 50 km,949.000 €,['190 m²'],['6 Zi.'],['723 m²'],['Einfamilienhaus'],n.a,['1984'],['C'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+65,287re52,frankfurt-am-main,50,max. 50 km,398.000 €,['114 m²'],['3 Zi.'],['187 m²'],['Reihenmittelhaus'],n.a,['2004'],['B'],['Gas'],['Zentralheizung'],2023-01-01
+66,28yk352,frankfurt-am-main,50,max. 50 km,398.000 €,['114 m²'],['3 Zi.'],['187 m²'],['Reihenmittelhaus'],n.a,['2004'],['C'],['Gas'],['Zentralheizung'],2023-01-01
+67,28qpe59,frankfurt-am-main,50,max. 50 km,570.000 €,['170 m²'],['5 Zi.'],['892 m²'],['Bungalow'],n.a,['1976'],n.a,['Öl'],['Zentralheizung'],2023-01-01
+68,26f2y5c,frankfurt-am-main,50,max. 50 km,492.850 €,['147.76 m²'],['5 Zi.'],"['173,43 m²']",['Reihenmittelhaus'],['2 Geschosse'],['2023'],['B'],['Pellets'],['Fußbodenheizung'],2023-01-01
+69,28qj552,frankfurt-am-main,50,max. 50 km,570.000 €,['229 m²'],['9 Zi.'],['851 m²'],['Einfamilienhaus'],n.a,['1974'],['D'],['Öl'],['Zentralheizung'],2023-01-01
+70,26m5r55,frankfurt-am-main,50,max. 50 km,298.000 €,['333 m²'],['9 Zi.'],['418 m²'],['Mehrfamilienhaus'],n.a,['1900'],n.a,['Öl'],['Zentralheizung'],2023-01-01
+71,22xxz5r,frankfurt-am-main,50,max. 50 km,890.000 €,['520 m²'],['8 Zi.'],['600 m²'],['Mehrfamilienhaus'],n.a,['1979'],['D'],['Öl'],['Zentralheizung'],2023-01-01
+72,266yc5y,frankfurt-am-main,50,max. 10 km,3.300.000 €,['600 m²'],[],['225 m²'],['Mehrfamilienhaus'],['3 Geschosse'],['1887'],n.a,['Fernwärme'],n.a,2023-01-01
+73,27ujc5u,frankfurt-am-main,50,max. 50 km,698.000 €,['252 m²'],['10 Zi.'],['301 m²'],['Mehrfamilienhaus'],['2 Geschosse'],['1990'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+74,27rv853,frankfurt-am-main,50,max. 50 km,375.000 €,['147 m²'],['5 Zi.'],['259 m²'],n.a,['2 Geschosse'],['1900'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+75,273es5x,frankfurt-am-main,50,max. 2 km,8.000.000 €,['1095 m²'],['50 Zi.'],['298 m²'],['Mehrfamilienhaus'],['5 Geschosse'],['1960'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+76,252fk58,frankfurt-am-main,50,max. 3 km,4.100.000 €,['616 m²'],['23 Zi.'],['250 m²'],['Mehrfamilienhaus'],n.a,['1964'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+77,28bbg58,frankfurt-am-main,50,max. 5 km,399.000 €,['63.68 m²'],['3 Zi.'],['214 m²'],['Einfamilienhaus'],n.a,['1949'],['F'],['Gas'],n.a,2023-01-01
+78,28bjb5e,frankfurt-am-main,50,max. 10 km,1.450.000 €,['247 m²'],['9 Zi.'],['486 m²'],['Einfamilienhaus'],['2 Geschosse'],['1959'],['C'],['Gas'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+79,288ah57,frankfurt-am-main,50,max. 10 km,590.000 €,['180 m²'],['8 Zi.'],['144 m²'],n.a,['3 Geschosse'],['1913'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+80,28xbz56,hamburg,50,max. 20 km,875.000 €,['193 m²'],['5 Zi.'],['472 m²'],['Einfamilienhaus'],n.a,['2013'],n.a,"['Gas, Solar']",['Fußbodenheizung'],2023-01-01
+81,27tty5x,hamburg,50,max. 50 km,745.000 €,['148.76 m²'],['6 Zi.'],['664 m²'],['Einfamilienhaus'],n.a,['2019'],n.a,"['Fernwärme, Gas']",n.a,2023-01-01
+82,263qw5a,hamburg,50,max. 2 km,44.444 €,['20 m²'],['2 Zi.'],['k.A.'],['Einfamilienhaus'],['1 Geschoss'],['2022'],n.a,['Elektro'],['Fußbodenheizung'],2023-01-01
+83,278vp5x,hamburg,50,max. 5 km,1.350.000 €,['84 m²'],['3 Zi.'],['543 m²'],['Doppelhaushälfte'],n.a,['1922'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+84,27zq55u,hamburg,50,max. 5 km,1.790.000 €,['113 m²'],['5 Zi.'],['614 m²'],['Doppelhaushälfte'],n.a,['1987'],['G'],['Gas'],['offener Kamin'],2023-01-01
+85,28hv957,hamburg,50,max. 5 km,3.850.000 €,['410 m²'],['10 Zi.'],['760 m²'],['Einfamilienhaus'],n.a,['1911'],n.a,n.a,['offener Kamin'],2023-01-01
+86,28nu957,hamburg,50,max. 10 km,3.950.000 €,['469 m²'],['17 Zi.'],['810 m²'],['Mehrfamilienhaus'],n.a,['1900'],n.a,n.a,n.a,2023-01-01
+87,27xrn5s,hamburg,50,max. 10 km,499.000 €,['127 m²'],['4 Zi.'],['k.A.'],['Doppelhaushälfte'],n.a,['1993'],['E'],['Gas'],['Zentralheizung'],2023-01-01
+88,28vqm56,hamburg,50,max. 10 km,3.950.000 €,['394.62 m²'],['13 Zi.'],['344 m²'],['Stadthaus'],n.a,['1890'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+89,27g2s5v,hamburg,50,max. 10 km,650.000 €,['71 m²'],['3.5 Zi.'],['725 m²'],['Einfamilienhaus'],n.a,['1950'],n.a,['Gas'],['offener Kamin'],2023-01-01
+90,28am458,hamburg,50,max. 10 km,2.295.000 €,['272.67 m²'],['5 Zi.'],['406 m²'],['Doppelhaushälfte'],n.a,['2019'],n.a,n.a,['offener Kamin'],2023-01-01
+91,27ld55q,hamburg,50,max. 10 km,1.395.000 €,['128.17 m²'],['4 Zi.'],['85 m²'],['Stadthaus'],n.a,['2022'],['A'],n.a,['Fußbodenheizung'],2023-01-01
+92,28xsa5a,hamburg,50,max. 10 km,1.950.000 €,['230 m²'],['8 Zi.'],['1.191 m²'],['Einfamilienhaus'],n.a,['1992'],['D'],['Gas'],n.a,2023-01-01
+93,28ghu59,hamburg,50,max. 10 km,599.000 €,['143 m²'],['6 Zi.'],['505 m²'],['Mehrfamilienhaus'],n.a,['1910'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+94,28qml59,hamburg,50,max. 15 km,1.690.000 €,['293 m²'],['9 Zi.'],['521 m²'],['Mehrfamilienhaus'],n.a,['1936'],['B'],['Gas'],['Zentralheizung'],2023-01-01
+95,26pft5z,hamburg,50,max. 15 km,925.000 €,['137 m²'],['5 Zi.'],['468 m²'],['Reihenendhaus'],n.a,['1980'],n.a,['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+96,27vng5w,hamburg,50,max. 15 km,199.000 €,['77.77 m²'],['3 Zi.'],['568 m²'],['Einfamilienhaus'],n.a,['1945'],n.a,['Elektro'],['offener Kamin'],2023-01-01
+97,28sp852,hamburg,50,max. 15 km,579.000 €,['122.95 m²'],['4.5 Zi.'],['438 m²'],['Einfamilienhaus'],n.a,['1961'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+98,28z8a54,hamburg,50,max. 15 km,1.999.000 €,['160.23 m²'],['6 Zi.'],['2.012 m²'],['Einfamilienhaus'],n.a,['1964'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+99,27dea5z,hamburg,50,max. 15 km,10.900.000 €,['2173 m²'],['60 Zi.'],['518 m²'],n.a,n.a,['1953'],['D'],['Gas'],n.a,2023-01-01
+100,27wec5r,hamburg,50,max. 15 km,660.000 €,['120 m²'],['4 Zi.'],['563 m²'],['Einfamilienhaus'],['1 Geschoss'],['1967'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+101,27cbj5g,hamburg,50,max. 20 km,1.790.000 €,['240 m²'],['7 Zi.'],['847 m²'],['Villa'],n.a,['2009'],['B'],['Gas'],"['Fußbodenheizung, offener Kamin']",2023-01-01
+102,27rzm5z,hamburg,50,max. 20 km,698.000 €,['127.3 m²'],['5 Zi.'],['248 m²'],['Stadthaus'],n.a,['1977'],['F'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+103,28rrd57,hamburg,50,max. 20 km,499.000 €,['114.63 m²'],['5 Zi.'],['170 m²'],['Reihenmittelhaus'],n.a,['2009'],['A'],['Fernwärme'],n.a,2023-01-01
+104,28zaz57,hamburg,50,max. 20 km,1.295.000 €,['329 m²'],['10.5 Zi.'],['1.038 m²'],['Einfamilienhaus'],n.a,n.a,['E'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+105,2696k59,hamburg,50,max. 20 km,1.149.000 €,['189.92 m²'],['7.5 Zi.'],['1.077 m²'],['Einfamilienhaus'],n.a,['1970'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+106,27nbt5c,hamburg,50,max. 20 km,1.087.000 €,['131 m²'],['4.5 Zi.'],['434 m²'],['Einfamilienhaus'],n.a,['2015'],n.a,['Gas'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+107,28zcb5b,hamburg,50,max. 20 km,749.000 €,['150.57 m²'],['6 Zi.'],['997 m²'],['Mehrfamilienhaus'],n.a,['1959'],['G'],['Gas'],['Zentralheizung'],2023-01-01
+108,27xjm5u,hamburg,50,max. 20 km,498.000 €,['113 m²'],['4 Zi.'],['150 m²'],['Reihenmittelhaus'],['3 Geschosse'],['2022'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+109,27ta55q,hamburg,50,max. 20 km,45.000 €,['50 m²'],['4 Zi.'],['k.A.'],['Einfamilienhaus'],['2 Geschosse'],['2022'],n.a,['Elektro'],['Fußbodenheizung'],2023-01-01
+110,27hr25z,hamburg,50,max. 30 km,1.590.000 €,['176 m²'],['5 Zi.'],['1.074 m²'],['Einfamilienhaus'],n.a,['1962'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+111,27s4s5r,hamburg,50,max. 30 km,559.000 €,['150 m²'],['4 Zi.'],['472 m²'],['Einfamilienhaus'],n.a,['1910'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+112,283kj58,hamburg,50,max. 30 km,659.000 €,['154 m²'],['5 Zi.'],['796 m²'],['Einfamilienhaus'],n.a,['1995'],['F'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+113,272tm5u,hamburg,50,max. 30 km,459.000 €,['120 m²'],['4 Zi.'],['200 m²'],['Doppelhaushälfte'],n.a,['2022'],['A+'],n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+114,289wn54,hamburg,50,max. 30 km,650.000 €,['125 m²'],['3 Zi.'],['1.160 m²'],['Bungalow'],n.a,['1958'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+115,25l9s5j,hamburg,50,max. 30 km,395.000 €,['134 m²'],['5 Zi.'],['170 m²'],['Reihenmittelhaus'],n.a,['1990'],['D'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+116,28d875c,hamburg,50,max. 30 km,799.000 €,['136 m²'],['10 Zi.'],['812 m²'],['Mehrfamilienhaus'],n.a,['1977'],['A'],n.a,"['Luft-/Wasser-Wärmepumpe, offener Kamin, Zentralheizung']",2023-01-01
+117,28gtb5b,hamburg,50,max. 30 km,449.000 €,['140 m²'],['4 Zi.'],['150 m²'],['Einfamilienhaus'],n.a,['2017'],['B'],['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+118,28v8k54,hamburg,50,max. 50 km,339.000 €,['116 m²'],['4.5 Zi.'],['157 m²'],['Reihenmittelhaus'],n.a,['1985'],['A+'],['Gas'],['Zentralheizung'],2023-01-01
+119,27nv85l,hamburg,50,max. 50 km,869.000 €,['173 m²'],['6 Zi.'],['650 m²'],['Einfamilienhaus'],n.a,['2021'],n.a,n.a,n.a,2023-01-01
+120,22ap85z,koeln,50,max. 15 km,1.200.000 €,['200 m²'],[],['k.A.'],['Mehrfamilienhaus'],n.a,['1964'],n.a,n.a,['Zentralheizung'],2023-01-01
+121,277x85m,koeln,50,max. 15 km,1.190.000 €,['360 m²'],['17 Zi.'],['1.150 m²'],['Einfamilienhaus'],['2 Geschosse'],['1964'],n.a,['Gas'],['Etagenheizung'],2023-01-01
+122,288zp55,koeln,50,max. 10 km,590.000 €,['105.25 m²'],['4 Zi.'],['472 m²'],['Reihenendhaus'],n.a,['1981'],['F'],['Öl'],['Zentralheizung'],2023-01-01
+123,27euc5y,koeln,50,max. 15 km,1.049.000 €,['220 m²'],['6 Zi.'],['428 m²'],['Doppelhaushälfte'],n.a,['2018'],['A+'],n.a,n.a,2023-01-01
+124,2879p54,koeln,50,max. 15 km,749.000 €,['237 m²'],['5 Zi.'],['567 m²'],['Einfamilienhaus'],n.a,['1950'],['E'],n.a,n.a,2023-01-01
+125,27ed35g,koeln,50,max. 15 km,885.000 €,['156 m²'],['6 Zi.'],['566 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+126,279y35w,koeln,50,max. 20 km,597.000 €,['137.5 m²'],['5 Zi.'],['209 m²'],['Doppelhaushälfte'],n.a,['2023'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+127,26gvq55,koeln,50,max. 20 km,579.900 €,['131 m²'],['5 Zi.'],['205 m²'],['Doppelhaushälfte'],n.a,['2023'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+128,27dbq5t,koeln,50,max. 20 km,420.000 €,['108 m²'],['4 Zi.'],['252 m²'],['Reihenmittelhaus'],n.a,['1980'],['E'],['Öl'],n.a,2023-01-01
+129,28gby5a,koeln,50,max. 30 km,499.950 €,['160 m²'],['5 Zi.'],['1.074 m²'],['Einfamilienhaus'],n.a,['1974'],['G'],['Gas'],['Zentralheizung'],2023-01-01
+130,27wu257,koeln,50,max. 30 km,619.000 €,['154 m²'],['6 Zi.'],['k.A.'],n.a,n.a,['1954'],n.a,['Öl'],['Zentralheizung'],2023-01-01
+131,27fca5v,koeln,50,max. 30 km,499.000 €,['136 m²'],[],['368 m²'],n.a,n.a,n.a,['G'],['Gas'],['Zentralheizung'],2023-01-01
+132,28et45c,koeln,50,max. 30 km,369.794 €,['120 m²'],['5 Zi.'],['561 m²'],['Einfamilienhaus'],n.a,['1978'],['G'],['Gas'],"['Fußbodenheizung, Ofen, Zentralheizung']",2023-01-01
+133,27xld5k,koeln,50,max. 30 km,299.000 €,['136 m²'],['6 Zi.'],['508 m²'],['Doppelhaushälfte'],n.a,['1951'],n.a,['Öl'],['Zentralheizung'],2023-01-01
+134,28ksc5d,koeln,50,max. 30 km,685.000 €,['271 m²'],['7 Zi.'],['618 m²'],['Mehrfamilienhaus'],n.a,['1982'],['D'],['Gas'],"['Fußbodenheizung, offener Kamin']",2023-01-01
+135,28bpn5b,koeln,50,max. 50 km,439.000 €,['125 m²'],['4 Zi.'],['186 m²'],['Einfamilienhaus'],n.a,['2006'],['B'],['Gas'],['Zentralheizung'],2023-01-01
+136,282ac57,koeln,50,max. 50 km,345.000 €,['126 m²'],['6 Zi.'],['343 m²'],['Reihenendhaus'],n.a,['1923'],n.a,['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+137,28muu5b,koeln,50,max. 50 km,779.000 €,['185.14 m²'],['7 Zi.'],"['255,14 m²']",['Reihenendhaus'],n.a,['1895'],n.a,n.a,n.a,2023-01-01
+138,277275s,koeln,50,max. 50 km,369.000 €,['136.07 m²'],['6 Zi.'],['100 m²'],['Doppelhaushälfte'],n.a,['1933'],['E'],['Gas'],['Zentralheizung'],2023-01-01
+139,277225t,koeln,50,max. 50 km,527.000 €,['170 m²'],['5 Zi.'],"['310,30 m²']",['Reihenmittelhaus'],n.a,['2023'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe, Zentralheizung']",2023-01-01
+140,26hyb5r,koeln,50,max. 50 km,1.150.000 €,['730 m²'],['20 Zi.'],['1.900 m²'],n.a,n.a,['1993'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+141,27wpz5n,koeln,50,max. 50 km,229.000 €,['85 m²'],['4 Zi.'],['261 m²'],['Reihenendhaus'],n.a,['1967'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+142,277ej5t,koeln,50,max. 50 km,489.000 €,['262.89 m²'],['6 Zi.'],['721 m²'],['Mehrfamilienhaus'],n.a,['1979'],['E'],n.a,"['Etagenheizung, Fußbodenheizung, Ofen, offener Kamin']",2023-01-01
+143,27q3y5l,koeln,50,max. 50 km,409.000 €,['300 m²'],['13 Zi.'],['176 m²'],['Mehrfamilienhaus'],n.a,['1910'],['H'],['Gas'],n.a,2023-01-01
+144,2857m57,koeln,50,max. 50 km,699.000 €,['145 m²'],['4 Zi.'],['430 m²'],['Einfamilienhaus'],n.a,['2010'],['B'],['Gas'],['Zentralheizung'],2023-01-01
+145,274b65y,koeln,50,max. 50 km,299.000 €,['100 m²'],['4 Zi.'],['480 m²'],['Reihenmittelhaus'],n.a,['1910'],['H'],['Öl'],n.a,2023-01-01
+146,27y8t5v,koeln,50,max. 50 km,349.000 €,['117.7 m²'],['4 Zi.'],['244 m²'],['Einfamilienhaus'],n.a,['1979'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+147,278dw5w,koeln,50,max. 50 km,365.000 €,['112 m²'],['4 Zi.'],['377 m²'],['Reihenmittelhaus'],n.a,['1983'],['E'],['Elektro'],['Fußbodenheizung'],2023-01-01
+148,28e5w59,koeln,50,max. 50 km,495.000 €,['150 m²'],['4 Zi.'],['486 m²'],['Einfamilienhaus'],n.a,['2020'],['A+'],['Solar'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+149,2894357,koeln,50,max. 50 km,398.000 €,['140 m²'],['5 Zi.'],['949 m²'],['Einfamilienhaus'],n.a,n.a,['H'],['Gas'],n.a,2023-01-01
+150,27zxh5t,koeln,50,max. 50 km,1.450.000 €,['519.85 m²'],['20 Zi.'],['463 m²'],['Mehrfamilienhaus'],n.a,['1905'],['C'],['Gas'],['Zentralheizung'],2023-01-01
+151,27skh5k,koeln,50,max. 50 km,570.000 €,['102 m²'],['5.5 Zi.'],['234 m²'],['Reihenmittelhaus'],n.a,n.a,['F'],['Elektro'],n.a,2023-01-01
+152,27d5w5k,koeln,50,max. 15 km,1.190.000 €,['360 m²'],['17 Zi.'],['1.150 m²'],['Mehrfamilienhaus'],['2 Geschosse'],['1964'],n.a,['Gas'],['Etagenheizung'],2023-01-01
+153,28nhd55,koeln,50,max. 50 km,499.000 €,['190 m²'],['8 Zi.'],['960 m²'],['Mehrfamilienhaus'],['2 Geschosse'],['1959'],n.a,['Gas'],n.a,2023-01-01
+154,25ksj5z,koeln,50,max. 50 km,550.000 €,['218 m²'],['7 Zi.'],['295 m²'],['Reihenendhaus'],['3 Geschosse'],['1980'],['C'],['Elektro'],n.a,2023-01-01
+155,27q3k5d,koeln,50,max. 3 km,1.099.000 €,['134.57 m²'],['7 Zi.'],['459 m²'],['Doppelhaushälfte'],n.a,['1923'],['H'],['Öl'],['Zentralheizung'],2023-01-01
+156,27anb5d,koeln,50,max. 10 km,4.650.000 €,['400 m²'],['9 Zi.'],['2.427 m²'],['Bungalow'],n.a,['1974'],['E'],['Gas'],"['Fußbodenheizung, offener Kamin']",2023-01-01
+157,28w4n5b,koeln,50,max. 10 km,1.998.000 €,['155 m²'],['6 Zi.'],['2.498 m²'],['Einfamilienhaus'],['2 Geschosse'],['1946'],n.a,n.a,['Zentralheizung'],2023-01-01
+158,26ykc5k,koeln,50,max. 10 km,1.355.000 €,['155 m²'],['6 Zi.'],['805 m²'],['Einfamilienhaus'],['2 Geschosse'],['1931'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+159,27ck45s,koeln,50,max. 10 km,449.000 €,['105.18 m²'],['5 Zi.'],['578 m²'],['Doppelhaushälfte'],n.a,['1961'],['H'],['Gas'],n.a,2023-01-01
+160,277e654,leipzig,50,max. 50 km,149.000 €,['90 m²'],[],['733 m²'],['Doppelhaushälfte'],n.a,n.a,['H'],['Fernwärme'],['offener Kamin'],2023-01-01
+161,27k4k5v,leipzig,50,max. 50 km,190.000 €,['160 m²'],['7 Zi.'],['809 m²'],['Einfamilienhaus'],['1 Geschoss'],['1900'],['H'],['Gas'],['Zentralheizung'],2023-01-01
+162,276lx58,leipzig,50,max. 3 km,990.000 €,['447 m²'],[],['340 m²'],['Mehrfamilienhaus'],n.a,['1900'],['E'],['Gas'],['Zentralheizung'],2023-01-01
+163,279y85z,leipzig,50,max. 5 km,1.750.000 €,['330 m²'],['8 Zi.'],['1.175 m²'],['Einfamilienhaus'],['2 Geschosse'],['2011'],['B'],['Erdwärme'],"['Fußbodenheizung, offener Kamin, Zentralheizung']",2023-01-01
+164,23tet5p,leipzig,50,max. 5 km,1.570.000 €,['671 m²'],[],['400 m²'],['Mehrfamilienhaus'],['4 Geschosse'],n.a,n.a,['Gas'],['Zentralheizung'],2023-01-01
+165,28ynr5c,leipzig,50,max. 5 km,525.000 €,['160 m²'],['6 Zi.'],['400 m²'],['Doppelhaushälfte'],n.a,['1935'],n.a,['Gas'],"['offener Kamin, Zentralheizung']",2023-01-01
+166,247vp58,leipzig,50,max. 5 km,590.000 €,['210 m²'],['7 Zi.'],['880 m²'],['Mehrfamilienhaus'],n.a,['1934/1995'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+167,28pl558,leipzig,50,max. 10 km,1.295.000 €,['325 m²'],['10 Zi.'],['1.037 m²'],['Villa'],n.a,['1996'],['A'],n.a,['Luft-/Wasser-Wärmepumpe'],2023-01-01
+168,27uj45h,leipzig,50,max. 15 km,389.000 €,['130 m²'],['5 Zi.'],['495 m²'],['Einfamilienhaus'],n.a,['1996'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+169,28dw558,leipzig,50,max. 30 km,165.000 €,['118.77 m²'],['5 Zi.'],"['1.630,16 m²']",['Einfamilienhaus'],n.a,['1867'],['H'],['Öl'],['Zentralheizung'],2023-01-01
+170,286ar5d,leipzig,50,max. 50 km,800.000 €,['575 m²'],['9 Zi.'],['3.481 m²'],['Mehrfamilienhaus'],n.a,['1954'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+171,26qsr5f,leipzig,50,max. 50 km,67.000 €,['79 m²'],['3 Zi.'],['1.780 m²'],['Mehrfamilienhaus'],n.a,['1901'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+172,26ul85m,leipzig,50,max. 50 km,77.000 €,['160 m²'],['5 Zi.'],['250 m²'],['Einfamilienhaus'],n.a,['1930'],n.a,['Elektro'],['Zentralheizung'],2023-01-01
+173,27fjb5u,leipzig,50,max. 10 km,395.000 €,['99.1 m²'],['5 Zi.'],['970 m²'],['Einfamilienhaus'],['2 Geschosse'],['1935'],['F'],"['Gas, Holz']",['Zentralheizung'],2023-01-01
+174,28lra5d,leipzig,50,max. 50 km,223.000 €,['90 m²'],['3 Zi.'],['500 m²'],['Einfamilienhaus'],['1 Geschoss'],['1919'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+175,279uc5q,leipzig,50,max. 2 km,988.500 €,['150.1 m²'],['5 Zi.'],['200 m²'],['Reihenmittelhaus'],n.a,['2023'],n.a,n.a,['Fußbodenheizung'],2023-01-01
+176,27cxu55,leipzig,50,max. 5 km,439.000 €,['135 m²'],['4 Zi.'],['175 m²'],['Doppelhaushälfte'],n.a,['1999'],['C'],['Gas'],['Zentralheizung'],2023-01-01
+177,27lz95v,leipzig,50,max. 10 km,249.000 €,['122 m²'],['4 Zi.'],['307 m²'],['Einfamilienhaus'],n.a,['1914'],['E'],['Öl'],['Etagenheizung'],2023-01-01
+178,27d935k,leipzig,50,max. 10 km,380.000 €,['131.38 m²'],['4 Zi.'],['400 m²'],['Reihenmittelhaus'],n.a,['1995'],['C'],['Gas'],['Zentralheizung'],2023-01-01
+179,27uvk58,leipzig,50,max. 10 km,849.000 €,['152 m²'],['5 Zi.'],['186 m²'],['Reihenmittelhaus'],['3 Geschosse'],['2009'],n.a,"['Gas, Holz']",['Fußbodenheizung'],2023-01-01
+180,27tqc5q,leipzig,50,max. 15 km,473.200 €,['135.9 m²'],['4 Zi.'],['209 m²'],n.a,n.a,n.a,n.a,n.a,['Fußbodenheizung'],2023-01-01
+181,2775n5y,leipzig,50,max. 15 km,680.000 €,['180 m²'],['6 Zi.'],['552 m²'],['Einfamilienhaus'],['2 Geschosse'],['1995'],n.a,n.a,"['Luft-/Wasser-Wärmepumpe, Zentralheizung']",2023-01-01
+182,28b9354,leipzig,50,max. 15 km,750.000 €,['169 m²'],['4 Zi.'],['492 m²'],['Einfamilienhaus'],n.a,['2013'],['A+'],n.a,['Luft-/Wasser-Wärmepumpe'],2023-01-01
+183,25ygt5e,leipzig,50,max. 20 km,1.400.000 €,['287 m²'],['6 Zi.'],['1.000 m²'],['Einfamilienhaus'],['2 Geschosse'],['1997'],n.a,"['Gas, Solar']","['Fußbodenheizung, offener Kamin']",2023-01-01
+184,276wc5q,leipzig,50,max. 20 km,473.191 €,['136 m²'],['4 Zi.'],['209 m²'],n.a,n.a,n.a,n.a,n.a,['Fußbodenheizung'],2023-01-01
+185,2863658,leipzig,50,max. 20 km,260.000 €,['150.22 m²'],['5 Zi.'],"['460,22 m²']",['Einfamilienhaus'],n.a,['1936'],['H'],['Öl'],['Zentralheizung'],2023-01-01
+186,279pv5v,leipzig,50,max. 30 km,315.000 €,['117.65 m²'],['4 Zi.'],['662 m²'],['Einfamilienhaus'],['2 Geschosse'],['2000'],['E'],['Gas'],['Zentralheizung'],2023-01-01
+187,27lkf5n,leipzig,50,max. 30 km,650.000 €,['836 m²'],['37 Zi.'],['935 m²'],['Mehrfamilienhaus'],n.a,['1926'],n.a,n.a,n.a,2023-01-01
+188,28rnv53,leipzig,50,max. 30 km,285.000 €,['148 m²'],['5 Zi.'],['157 m²'],['Doppelhaushälfte'],['2 Geschosse'],['1890'],['D'],['Öl'],['Zentralheizung'],2023-01-01
+189,28uqr52,leipzig,50,max. 30 km,375.000 €,['134 m²'],['4 Zi.'],['751 m²'],['Einfamilienhaus'],['2 Geschosse'],['2007'],n.a,['Gas'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+190,28ybp57,leipzig,50,max. 50 km,385.000 €,['122.85 m²'],['4 Zi.'],['305 m²'],['Doppelhaushälfte'],['3 Geschosse'],['1996'],n.a,['Gas'],"['Fußbodenheizung, Zentralheizung']",2023-01-01
+191,27jf95g,leipzig,50,max. 50 km,150.000 €,['107 m²'],['6 Zi.'],['760 m²'],['Reihenendhaus'],n.a,['1930'],['G'],['Gas'],n.a,2023-01-01
+192,28we65a,leipzig,50,max. 50 km,365.000 €,['316 m²'],['6 Zi.'],['357 m²'],['Einfamilienhaus'],['3 Geschosse'],['1950'],n.a,"['Elektro, Gas, Holz']","['Fußbodenheizung, Ofen, Zentralheizung']",2023-01-01
+193,289l55a,leipzig,50,max. 50 km,330.000 €,['125 m²'],['4.5 Zi.'],['265 m²'],['Einfamilienhaus'],n.a,['2012'],['E'],['Gas'],"['Fußbodenheizung, offener Kamin, Zentralheizung']",2023-01-01
+194,28wy354,leipzig,50,max. 50 km,750.000 €,['450 m²'],['13 Zi.'],['359 m²'],['Mehrfamilienhaus'],n.a,['1900'],['F'],['Gas'],['Etagenheizung'],2023-01-01
+195,28uem58,leipzig,50,max. 50 km,569.000 €,['215 m²'],['5 Zi.'],['455 m²'],['Einfamilienhaus'],['3 Geschosse'],['2010'],['C'],['Gas'],['Fußbodenheizung'],2023-01-01
+196,25db85p,leipzig,50,max. 50 km,385.840 €,['149 m²'],['5 Zi.'],['694 m²'],['Villa'],['2 Geschosse'],['2022'],n.a,['Elektro'],['Luft-/Wasser-Wärmepumpe'],2023-01-01
+197,26qgf5t,leipzig,50,max. 50 km,598.000 €,['213.67 m²'],['30 Zi.'],['924 m²'],n.a,n.a,['1911'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+198,28zhq5b,leipzig,50,max. 50 km,119.188 €,['42 m²'],['1 Zi.'],['20.000 m²'],['Bungalow'],['1 Geschoss'],['2023'],['A+'],"['Elektro, Solar']",['Fußbodenheizung'],2023-01-01
+199,27pqe5h,leipzig,50,max. 50 km,295.000 €,['120 m²'],['4 Zi.'],['174 m²'],['Reihenmittelhaus'],n.a,['1998'],['E'],['Gas'],['Zentralheizung'],2023-01-01
+200,282jq53,muenchen,50,max. 10 km,910.000 €,['145 m²'],['6 Zi.'],['300 m²'],['Doppelhaushälfte'],n.a,['1999'],['B'],['Öl'],"['Ofen, Zentralheizung']",2023-01-01
+201,27ymm56,muenchen,50,max. 10 km,1.980.000 €,['197 m²'],['7 Zi.'],['444 m²'],['Stadthaus'],n.a,['2016'],['D'],n.a,n.a,2023-01-01
+202,27kr95y,muenchen,50,max. 10 km,7.903.000 €,['544.7 m²'],['16 Zi.'],['607 m²'],['Mehrfamilienhaus'],n.a,['2023'],['A'],n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe, offener Kamin']",2023-01-01
+203,28dr45c,muenchen,50,max. 10 km,1.790.000 €,['165 m²'],['5 Zi.'],['200 m²'],['Doppelhaushälfte'],n.a,['2024'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+204,27le55t,muenchen,50,max. 10 km,1.297.000 €,['129.5 m²'],['5 Zi.'],"['170,90 m²']",['Doppelhaushälfte'],n.a,['2023'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe, Zentralheizung']",2023-01-01
+205,28jmp5d,muenchen,50,max. 10 km,799.000 €,['147.2 m²'],['5 Zi.'],['266 m²'],['Reihenendhaus'],n.a,['1976'],['G'],['Gas'],n.a,2023-01-01
+206,284j75c,muenchen,50,max. 10 km,1.195.000 €,['174 m²'],['5 Zi.'],['118 m²'],['Reihenmittelhaus'],n.a,['2022'],['A+'],n.a,"['Luft-/Wasser-Wärmepumpe, Zentralheizung']",2023-01-01
+207,28q8z5b,muenchen,50,max. 15 km,5.700.000 €,['235.77 m²'],['8 Zi.'],['1.415 m²'],['Einfamilienhaus'],n.a,['1966'],n.a,['Erdwärme'],['Zentralheizung'],2023-01-01
+208,25cm953,muenchen,50,max. 15 km,1.240.000 €,['165 m²'],['5.5 Zi.'],['398 m²'],['Doppelhaushälfte'],n.a,['1994'],['C'],"['Gas, Solar']","['Ofen, Zentralheizung']",2023-01-01
+209,27gpj5s,muenchen,50,max. 15 km,890.000 €,['99.85 m²'],['4 Zi.'],['136 m²'],['Reihenmittelhaus'],n.a,['1955'],['D'],n.a,"['Fußbodenheizung, Zentralheizung']",2023-01-01
+210,27n9q5a,muenchen,50,max. 15 km,auf Anfrage,['757 m²'],['10 Zi.'],['1.186 m²'],['Einfamilienhaus'],n.a,n.a,n.a,n.a,n.a,2023-01-01
+211,28cjt56,muenchen,50,max. 15 km,1.960.000 €,['215 m²'],['4 Zi.'],['456 m²'],['Einfamilienhaus'],n.a,['1996'],['D'],['Gas'],['Zentralheizung'],2023-01-01
+212,27alj5b,muenchen,50,max. 15 km,2.049.000 €,['155 m²'],['5 Zi.'],['322 m²'],['Einfamilienhaus'],n.a,['2020'],['B'],['Fernwärme'],['offener Kamin'],2023-01-01
+213,27etq5c,muenchen,50,max. 15 km,825.000 €,['155 m²'],['6.5 Zi.'],['159 m²'],['Reihenendhaus'],n.a,['1978'],['C'],['Gas'],['Zentralheizung'],2023-01-01
+214,276885d,muenchen,50,max. 15 km,2.249.000 €,['267 m²'],['5 Zi.'],['475 m²'],['Einfamilienhaus'],['2 Geschosse'],['2010'],['A'],n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe, Zentralheizung']",2023-01-01
+215,27wgv5w,muenchen,50,max. 15 km,2.199.000 €,['242 m²'],['5.5 Zi.'],['667 m²'],['Einfamilienhaus'],n.a,['2010'],n.a,['Elektro'],n.a,2023-01-01
+216,284xe57,muenchen,50,max. 20 km,1.170.000 €,['149.37 m²'],['6 Zi.'],['496 m²'],['Bungalow'],n.a,['1965'],['E'],['Gas'],n.a,2023-01-01
+217,28ulu56,muenchen,50,max. 20 km,4.980.000 €,['319 m²'],['12 Zi.'],['1.008 m²'],['Mehrfamilienhaus'],n.a,n.a,n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+218,28d4v56,muenchen,50,max. 20 km,2.890.000 €,['327 m²'],['6.5 Zi.'],['1.241 m²'],['Villa'],n.a,['1966'],['C'],n.a,['Zentralheizung'],2023-01-01
+219,27t9m5s,muenchen,50,max. 20 km,1.950.000 €,['205 m²'],['6 Zi.'],['777 m²'],['Reihenendhaus'],n.a,['2003'],['C'],['Gas'],"['Fußbodenheizung, offener Kamin, Zentralheizung']",2023-01-01
+220,27hqg5z,muenchen,50,max. 30 km,3.595.000 €,['325 m²'],['7 Zi.'],['500 m²'],['Einfamilienhaus'],n.a,['2010'],['G'],['Gas'],"['Fußbodenheizung, offener Kamin, Zentralheizung']",2023-01-01
+221,283ss5b,muenchen,50,max. 30 km,1.119.000 €,['122.2 m²'],['5 Zi.'],['360 m²'],['Doppelhaushälfte'],n.a,['2021'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+222,27zfm5z,muenchen,50,max. 30 km,1.890.000 €,['232 m²'],['7 Zi.'],['1.693 m²'],['Mehrfamilienhaus'],n.a,['1970'],['E'],['Öl'],['Zentralheizung'],2023-01-01
+223,26yc75c,muenchen,50,max. 50 km,1.275.000 €,['150 m²'],['5 Zi.'],['234 m²'],['Doppelhaushälfte'],['4 Geschosse'],['2023'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+224,28gh35c,muenchen,50,max. 50 km,795.000 €,['156.3 m²'],['5 Zi.'],['344 m²'],['Doppelhaushälfte'],n.a,['1983'],['B'],['Öl'],['Fußbodenheizung'],2023-01-01
+225,27pqc5w,muenchen,50,max. 50 km,840.000 €,['113 m²'],['3 Zi.'],['219 m²'],['Doppelhaushälfte'],n.a,['2014'],['A'],['Elektro'],['offener Kamin'],2023-01-01
+226,27au25l,muenchen,50,max. 50 km,2.120.000 €,['382 m²'],['6.5 Zi.'],['893 m²'],['Einfamilienhaus'],n.a,['2015'],n.a,"['Gas, Solar']","['Fußbodenheizung, offener Kamin, Zentralheizung']",2023-01-01
+227,27aqa5k,muenchen,50,max. 50 km,999.999 €,['268 m²'],['8 Zi.'],['1.012 m²'],['Einfamilienhaus'],['3 Geschosse'],['1978'],['F'],['Öl'],"['Ofen, Zentralheizung']",2023-01-01
+228,279dk5w,muenchen,50,max. 50 km,498.000 €,['108 m²'],['4 Zi.'],['560 m²'],['Mehrfamilienhaus'],['2 Geschosse'],n.a,['F'],['Öl'],['Zentralheizung'],2023-01-01
+229,28q4c59,muenchen,50,max. 50 km,1.350.000 €,['261 m²'],['8 Zi.'],['616 m²'],['Doppelhaushälfte'],n.a,['1970'],['B'],['Gas'],['Zentralheizung'],2023-01-01
+230,276mr5f,muenchen,50,max. 50 km,1.450.000 €,['281.4 m²'],['8.5 Zi.'],['1.836 m²'],['Einfamilienhaus'],n.a,['1960'],['G'],n.a,['Zentralheizung'],2023-01-01
+231,27quj5g,muenchen,50,max. 50 km,895.000 €,['162 m²'],['8 Zi.'],['626 m²'],['Doppelhaushälfte'],n.a,['1953'],n.a,n.a,['offener Kamin'],2023-01-01
+232,28dh65b,muenchen,50,max. 50 km,520.000 €,['182 m²'],['5 Zi.'],['492 m²'],['Doppelhaushälfte'],n.a,['1991'],['E'],['Elektro'],['Fußbodenheizung'],2023-01-01
+233,2745y5q,muenchen,50,max. 2 km,2.950.000 €,['270 m²'],['12 Zi.'],['135 m²'],n.a,n.a,['1933'],n.a,n.a,n.a,2023-01-01
+234,2832t53,muenchen,50,max. 5 km,2.350.000 €,['235.11 m²'],['10 Zi.'],['661 m²'],['Stadthaus'],n.a,['1936'],['G'],['Gas'],['Zentralheizung'],2023-01-01
+235,27vrm5r,muenchen,50,max. 5 km,2.290.000 €,['163 m²'],['6 Zi.'],['363 m²'],['Einfamilienhaus'],n.a,['2011'],['A'],['Gas'],"['Fußbodenheizung, offener Kamin']",2023-01-01
+236,26ue45z,muenchen,50,max. 5 km,2.950.000 €,['318.33 m²'],['10 Zi.'],['600 m²'],['Mehrfamilienhaus'],n.a,['1945'],n.a,['Gas'],"['Fußbodenheizung, Ofen, offener Kamin, Zentralheizung']",2023-01-01
+237,27th25x,muenchen,50,max. 5 km,2.840.000 €,['233 m²'],['9 Zi.'],['475 m²'],['Einfamilienhaus'],n.a,['2024'],n.a,n.a,n.a,2023-01-01
+238,28vwk58,muenchen,50,max. 5 km,1.200.000 €,['122 m²'],['4 Zi.'],['212 m²'],['Reihenendhaus'],n.a,['1972'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+239,28jem5a,muenchen,50,max. 10 km,1.278.365 €,['151.42 m²'],['5 Zi.'],"['254,38 m²']",['Doppelhaushälfte'],n.a,['2024'],n.a,n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+240,273825p,stuttgart,50,max. 5 km,1.149.000 €,['177 m²'],['6 Zi.'],['1.417 m²'],['Einfamilienhaus'],n.a,['1958'],n.a,['Öl'],n.a,2023-01-01
+241,277ga5w,stuttgart,50,max. 5 km,1.890.000 €,['369.01 m²'],[],['594 m²'],['Mehrfamilienhaus'],['3 Geschosse'],['1895'],['F'],['Gas'],['Zentralheizung'],2023-01-01
+242,28y3c5b,stuttgart,50,max. 10 km,509.000 €,['156 m²'],['11 Zi.'],['268 m²'],['Mehrfamilienhaus'],n.a,['1700'],n.a,n.a,n.a,2023-01-01
+243,28b3p5d,stuttgart,50,max. 15 km,620.000 €,['136 m²'],['8 Zi.'],['359 m²'],['Mehrfamilienhaus'],n.a,['1959'],['F'],['Gas'],['Etagenheizung'],2023-01-01
+244,27wfe5l,stuttgart,50,max. 20 km,499.000 €,['169 m²'],['8 Zi.'],['110 m²'],['Mehrfamilienhaus'],n.a,['1930'],['F'],['Gas'],n.a,2023-01-01
+245,27l9j5t,stuttgart,50,max. 20 km,639.000 €,['125 m²'],['4.5 Zi.'],['200 m²'],['Reihenmittelhaus'],n.a,['1998'],['A'],['Gas'],"['Etagenheizung, Ofen']",2023-01-01
+246,26scs5u,stuttgart,50,max. 20 km,460.000 €,['152 m²'],['6.5 Zi.'],['182 m²'],['Einfamilienhaus'],n.a,['1850'],['F'],"['Holz, Öl']",['Ofen'],2023-01-01
+247,27epu5j,stuttgart,50,max. 30 km,449.000 €,['111 m²'],['5.5 Zi.'],['133 m²'],['Doppelhaushälfte'],n.a,['1955'],['H'],n.a,n.a,2023-01-01
+248,28mv256,stuttgart,50,max. 30 km,1.700.000 €,['386 m²'],['7 Zi.'],['1.513 m²'],['Einfamilienhaus'],n.a,['1994'],['D'],n.a,['Zentralheizung'],2023-01-01
+249,274ca5f,stuttgart,50,max. 30 km,1.100.000 €,['365 m²'],[],['605 m²'],['Mehrfamilienhaus'],n.a,['1971'],['F'],['Öl'],n.a,2023-01-01
+250,282u553,stuttgart,50,max. 30 km,669.000 €,['150 m²'],['6.5 Zi.'],['964 m²'],['Einfamilienhaus'],n.a,['1956'],['H'],['Öl'],n.a,2023-01-01
+251,27b4j5w,stuttgart,50,max. 30 km,850.000 €,['260 m²'],['7 Zi.'],['527 m²'],['Einfamilienhaus'],n.a,['1963'],['C'],['Gas'],['Zentralheizung'],2023-01-01
+252,225ua55,stuttgart,50,max. 30 km,646.000 €,['162 m²'],['5 Zi.'],['116 m²'],['Reihenmittelhaus'],n.a,['2022'],n.a,"['Fernwärme, Gas']",n.a,2023-01-01
+253,278hb5h,stuttgart,50,max. 30 km,500.000 €,['129 m²'],['6 Zi.'],['315 m²'],['Einfamilienhaus'],n.a,['1983'],['H'],['Öl'],n.a,2023-01-01
+254,2785p5c,stuttgart,50,max. 50 km,699.000 €,['140 m²'],['6.5 Zi.'],['1.456 m²'],['Doppelhaushälfte'],n.a,['2019'],['A+'],n.a,"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+255,28m2954,stuttgart,50,max. 50 km,199.000 €,['150 m²'],[],['225 m²'],['Bauernhaus'],['3 Geschosse'],n.a,n.a,['Holz'],"['Ofen, offener Kamin']",2023-01-01
+256,2864v54,stuttgart,50,max. 50 km,489.000 €,['150 m²'],['7 Zi.'],['144 m²'],['Doppelhaushälfte'],n.a,['1923'],['C'],n.a,['Ofen'],2023-01-01
+257,27jns5v,stuttgart,50,max. 50 km,539.000 €,['215 m²'],['8 Zi.'],['552 m²'],['Mehrfamilienhaus'],n.a,['1890'],['H'],['Öl'],"['offener Kamin, Zentralheizung']",2023-01-01
+258,28sey5a,stuttgart,50,max. 50 km,680.000 €,['215 m²'],['7 Zi.'],['868 m²'],['Mehrfamilienhaus'],['2 Geschosse'],['1971'],n.a,['Öl'],['Zentralheizung'],2023-01-01
+259,28z525e,stuttgart,50,max. 50 km,410.000 €,['129 m²'],['5 Zi.'],['728 m²'],['Einfamilienhaus'],n.a,['1962'],n.a,['Öl'],['Zentralheizung'],2023-01-01
+260,28wd85c,stuttgart,50,max. 50 km,349.000 €,['111.59 m²'],['6 Zi.'],['452 m²'],['Einfamilienhaus'],n.a,['1954'],n.a,['Gas'],n.a,2023-01-01
+261,2892k55,stuttgart,50,max. 50 km,350.000 €,['101 m²'],['5 Zi.'],['175 m²'],['Reihenendhaus'],n.a,['1966'],['H'],['Gas'],"['Etagenheizung, offener Kamin']",2023-01-01
+262,2724e5m,stuttgart,50,max. 50 km,480.000 €,['249 m²'],['10 Zi.'],['467 m²'],['Mehrfamilienhaus'],n.a,['1920'],n.a,['Pellets'],"['offener Kamin, Zentralheizung']",2023-01-01
+263,27kjn5t,stuttgart,50,max. 50 km,799.950 €,['230.34 m²'],['7 Zi.'],['1.029 m²'],['Einfamilienhaus'],n.a,['1989'],['D'],['Öl'],"['offener Kamin, Zentralheizung']",2023-01-01
+264,28zh559,stuttgart,50,max. 50 km,725.000 €,['270 m²'],['6 Zi.'],['1.070 m²'],['Einfamilienhaus'],n.a,['1950'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+265,28wwr5b,stuttgart,50,max. 50 km,148.000 €,['55.62 m²'],['2 Zi.'],['402 m²'],['Doppelhaushälfte'],n.a,['1956'],['H'],['Öl'],['Zentralheizung'],2023-01-01
+266,27uk754,stuttgart,50,max. 50 km,280.000 €,['136.15 m²'],['7 Zi.'],['221 m²'],['Einfamilienhaus'],n.a,['1870'],['G'],['Öl'],['Zentralheizung'],2023-01-01
+267,27saf54,stuttgart,50,max. 50 km,1.345.000 €,['160.09 m²'],['4 Zi.'],['377 m²'],['Einfamilienhaus'],n.a,['1970'],['D'],"['Gas, Öl, Solar']","['offener Kamin, Zentralheizung']",2023-01-01
+268,27jds5b,stuttgart,50,max. 50 km,599.000 €,['117 m²'],['5.5 Zi.'],['178 m²'],['Mehrfamilienhaus'],['3 Geschosse'],['2019'],['A+'],['Elektro'],"['Fußbodenheizung, Luft-/Wasser-Wärmepumpe']",2023-01-01
+269,273h45b,stuttgart,50,max. 5 km,1.698.000 €,['196.05 m²'],['9 Zi.'],['363 m²'],['Reihenendhaus'],n.a,['2004'],['D'],['Gas'],n.a,2023-01-01
+270,2682v55,stuttgart,50,max. 10 km,1.450.000 €,['198 m²'],['9 Zi.'],['929 m²'],['Mehrfamilienhaus'],['3 Geschosse'],['1930'],n.a,['Elektro'],['Etagenheizung'],2023-01-01
+271,28x3857,stuttgart,50,max. 10 km,1.485.000 €,['326 m²'],['12 Zi.'],['472 m²'],['Mehrfamilienhaus'],n.a,['1963'],['E'],['Gas'],['Etagenheizung'],2023-01-01
+272,28pyj56,stuttgart,50,max. 10 km,829.900 €,['137.35 m²'],['5 Zi.'],"['177,20 m²']",['Reihenmittelhaus'],['3 Geschosse'],['2023'],n.a,['Solar'],['Luft-/Wasser-Wärmepumpe'],2023-01-01
+273,28cza53,stuttgart,50,max. 10 km,795.000 €,['160 m²'],['6 Zi.'],['383 m²'],['Mehrfamilienhaus'],n.a,['1933'],['H'],['Gas'],n.a,2023-01-01
+274,27jxc5j,stuttgart,50,max. 10 km,895.000 €,['194 m²'],['8 Zi.'],['305 m²'],['Reihenendhaus'],n.a,['1979'],['D'],['Elektro'],['Fußbodenheizung'],2023-01-01
+275,2863s59,stuttgart,50,max. 10 km,899.000 €,['155 m²'],['5 Zi.'],['327 m²'],['Einfamilienhaus'],['2 Geschosse'],['1981'],['E'],"['Holz, Öl']","['Ofen, Zentralheizung']",2023-01-01
+276,27b495a,stuttgart,50,max. 15 km,1.350.000 €,['347 m²'],['11 Zi.'],['572 m²'],n.a,n.a,n.a,n.a,['Gas'],['Zentralheizung'],2023-01-01
+277,27ghs5u,stuttgart,50,max. 15 km,789.000 €,['172 m²'],['5 Zi.'],['121 m²'],['Doppelhaushälfte'],['3 Geschosse'],['2007'],n.a,['Gas'],['Zentralheizung'],2023-01-01
+278,26rbp5f,stuttgart,50,max. 15 km,990.000 €,['290 m²'],['18 Zi.'],['k.A.'],['Mehrfamilienhaus'],n.a,['1953'],n.a,n.a,['Zentralheizung'],2023-01-01
+279,27xm95m,stuttgart,50,max. 15 km,584.900 €,['135 m²'],['5.5 Zi.'],['271 m²'],['Reihenmittelhaus'],n.a,['2022'],n.a,['Pellets'],n.a,2023-01-01
