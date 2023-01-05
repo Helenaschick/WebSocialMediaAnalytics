@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 
+# Umwandlung relevanter Codes aus Jupyter Notebook "webscraping_immowelt" zu Python Skript
+# Dieses Skript sollte auf den AWS-Server gespeichert und über einen Cronjob täglich ausgeführt werden
+# Versuch die Seitenrange auf 250 zu erhöhen
+# Um die Errormeldung "Eine vorhandene Verbindung wurde vom Remotehost geschlossen" zu umgehen, wurde zusätzlich ein time.sleep() eingefügt
+# Verbindung wurde dennoch oft abgebrochen, daher Entscheidung, dass Jupyter Notebook täglich manuell mit einer Seitenrang von 50 auszuführen
+
 import lxml
 from lxml import html
 from lxml import etree
